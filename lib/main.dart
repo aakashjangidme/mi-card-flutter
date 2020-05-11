@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
                 height: 10.0,
               ),
               Text(
-                'Aakash Jangid',
+                'Jhon Doe',
                 style: TextStyle(
                   fontFamily: 'Raleway',
                   fontSize: 40.0,
@@ -71,7 +71,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.cyan,
                   ),
                   title: Text(
-                    '+91 70 (140) 46163',
+                    '+91 97 (564) 3210',
                     style: TextStyle(
                         color: Colors.cyan.shade900,
                         fontFamily: 'Raleway',
@@ -90,7 +90,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.cyan,
                   ),
                   title: Text(
-                    'contact@aakashjangid.me',
+                    'contact@beatsgram.studio',
                     style: TextStyle(
                       color: Colors.cyan.shade900,
                       fontFamily: 'Raleway',
